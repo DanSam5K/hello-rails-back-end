@@ -54,7 +54,7 @@ This should start your local server in [http://localhost:3200/](http://localhost
 
 | Request                            | Endpoint         | Method | Header                                                               |
 | ---------------------------------- | ---------------- | ------ | -------------------------------------------------------------------- |
-| Randomly selected greeting message | `/greeting` | GET    | { "Accept": "application/json", "Content-Type": "application/json" } |
+| Randomly selected greeting message | `/greetings` | GET    | { "Accept": "application/json", "Content-Type": "application/json" } |
 
 To stop the server, hit `<CTRL> + C` on your keyboard.
 
